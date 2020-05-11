@@ -1,6 +1,6 @@
 Each person in your group take one of the following topics and explain it to the group in your own words:
 
-* Components in General
+* Components
 * Node Package Manager
 * JSX
 * Static Components vs. Dynamic Components

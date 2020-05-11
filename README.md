@@ -1,4 +1,4 @@
-Each person in your group take one of the following topics and explain it to the group in your own words:
+Each person in your group should take one of the following topics and explain it to the group in their own words. For the remaining topics, discuss them as a whole group:
 
 * Components
 * Node Package Manager

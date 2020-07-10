@@ -8,3 +8,7 @@
   :course_id: 361
   :canvas_url: https://learning.flatironschool.com/courses/361/pages/mod4-dq-1
   :type: page
+- :id: 12338
+  :course_id: 345
+  :canvas_url: https://learning.flatironschool.com/courses/345/pages/discussion-questions-core-react-concepts
+  :type: page
